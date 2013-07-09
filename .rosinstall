@@ -7,18 +7,18 @@
 - other: {local-name: /opt/ros/fuerte/share}
 - other: {local-name: /opt/ros/fuerte/stacks}
 - setup-file: {local-name: /opt/ros/fuerte/setup.sh}
-- git: {local-name: re2kdlTools, uri: 'ssh://git@bitbucket.org/andy_somerville/re2kdltools.git'}
-- git: {local-name: re2uta_atlasCompliance, uri: 'ssh://git@bitbucket.org/andy_somerville/re2uta_atlasCompliance.git'}
-- git: {local-name: re2uta_ocuPlugins, uri: 'ssh://git@bitbucket.org/andy_somerville/re2uta_ocuPlugins.git'}
-- git: {local-name: re2uta_simulationTester, uri: 'ssh://git@bitbucket.org/andy_somerville/re2uta_simulationTester.git'}
-- git: {local-name: re2uta_ocu, uri: 'ssh://git@bitbucket.org/andy_somerville/re2uta_ocu.git'}
-- git: {local-name: re2uta_atlasCommander, uri: 'ssh://git@bitbucket.org/andy_somerville/re2uta_atlasCommander.git'}
-- git: {local-name: re2uta_atlasNavigation, uri: 'ssh://git@bitbucket.org/andy_somerville/re2uta_atlasNavigation.git'}
-- git: {local-name: re2uta_nnJointController, uri: 'ssh://git@bitbucket.org/andy_somerville/re2uta_nnJointController.git'}
-- git: {local-name: re2uta_kinematics, uri: 'ssh://git@bitbucket.org/andy_somerville/re2uta_kinematics.git'}
-- git: {local-name: re2uta_worlds, uri: 'ssh://git@bitbucket.org/andy_somerville/re2uta_worlds.git'}
-- git: {local-name: re2uta_inetComms, uri: 'ssh://git@bitbucket.org/andy_somerville/re2uta_inetComms.git'}
-- git: {local-name: re2visUtils, uri: 'ssh://git@bitbucket.org/andy_somerville/re2visutils.git'}
-- git: {local-name: re2eigenUtil, uri: 'ssh://git@bitbucket.org/andy_somerville/re2eigenutil.git'}
-- git: {local-name: re2uta_atlasUtils, uri: 'ssh://git@bitbucket.org/andy_somerville/re2uta_atlasUtils.git'}
-- git: {local-name: re2uta_atlasKinematics, uri: 'ssh://git@bitbucket.org/andy_somerville/re2uta_atlasKinematics.git'}
+- git: {local-name: re2kdlTools, uri: 'https://bitbucket.org/andy_somerville/re2kdltools.git'}
+- git: {local-name: re2uta_atlasCompliance, uri: 'https://bitbucket.org/andy_somerville/re2uta_atlasCompliance.git'}
+- git: {local-name: re2uta_ocuPlugins, uri: 'https://bitbucket.org/andy_somerville/re2uta_ocuPlugins.git'}
+- git: {local-name: re2uta_simulationTester, uri: 'https://bitbucket.org/andy_somerville/re2uta_simulationTester.git'}
+- git: {local-name: re2uta_ocu, uri: 'https://bitbucket.org/andy_somerville/re2uta_ocu.git'}
+- git: {local-name: re2uta_atlasCommander, uri: 'https://bitbucket.org/andy_somerville/re2uta_atlasCommander.git'}
+- git: {local-name: re2uta_atlasNavigation, uri: 'https://bitbucket.org/andy_somerville/re2uta_atlasNavigation.git'}
+- git: {local-name: re2uta_nnJointController, uri: 'https://bitbucket.org/andy_somerville/re2uta_nnJointController.git'}
+- git: {local-name: re2uta_kinematics, uri: 'https://bitbucket.org/andy_somerville/re2uta_kinematics.git'}
+- git: {local-name: re2uta_worlds, uri: 'https://bitbucket.org/andy_somerville/re2uta_worlds.git'}
+- git: {local-name: re2uta_inetComms, uri: 'https://bitbucket.org/andy_somerville/re2uta_inetComms.git'}
+- git: {local-name: re2visUtils, uri: 'https://bitbucket.org/andy_somerville/re2visutils.git'}
+- git: {local-name: re2eigenUtil, uri: 'https://bitbucket.org/andy_somerville/re2eigenutil.git'}
+- git: {local-name: re2uta_atlasUtils, uri: 'https://bitbucket.org/andy_somerville/re2uta_atlasUtils.git'}
+- git: {local-name: re2uta_atlasKinematics, uri: 'https://bitbucket.org/andy_somerville/re2uta_atlasKinematics.git'}
