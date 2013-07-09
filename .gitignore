@@ -1,3 +1,4 @@
+#dirs
 rbdl
 re2eigenUtil
 re2kdlTools
@@ -14,6 +15,12 @@ re2uta_ocuPlugins
 re2uta_simulationTester
 re2uta_worlds
 re2visUtils
+
+
+#files
 setup.bash
 setup.sh
 setup.zsh
+.rosinstall.bak
+
+
