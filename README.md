@@ -1,3 +1,8 @@
+# re2uta_atlas
+
+This is a public release of the software used by the re2uta team in the DARPA VRC.
+
+
 #### TO INSTALL:
 This assumes you have DRC related packages already installed. If you don't then go here: http://gazebosim.org/wiki/DRC/Install
 
